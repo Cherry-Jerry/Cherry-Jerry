@@ -1,5 +1,5 @@
-### Hi there 👋
-
+### Welcome! 🤭
+  Nice to meet you but there is nothing...
 <!--
 **Cherry-Jerry/Cherry-Jerry** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
